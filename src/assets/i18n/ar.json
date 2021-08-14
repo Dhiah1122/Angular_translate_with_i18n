@@ -1,0 +1,11 @@
+{
+    "TITLE": "مرحبًا ، تفاصيل ملفك الشخصي هي",
+    "USER_INFO":{
+        "NAME":"اسم",
+        "WORKING_PROFILE":"الملف الشخص",
+        "ADDRESS_DETAILS":"تفاصيل العنوان",
+        "PHONE_NUMBER":"رقم التليفون",
+        "EMAIL_ADDRESS":"عنوان البريد الإلكتروني",
+        "RELEVANT_EXPERIENCE":"خبرة متعلقة"
+    }
+}
